@@ -1,4 +1,4 @@
-# Interactive Brokers java client
+# Interactive Brokers Java Client
 
 Interactive Brokers provides Java source code that can act as an async client to talk to IB.  It's not so bad once you get it set up.
 
@@ -6,6 +6,9 @@ The problem is that it is distributed like its 1999.  This project wraps the sou
 
 From here, its up to you.
 
+Interactive Brokers guys:
+
+Cool product, your API could use some work.  If you don't want this up as a conveninence mechanism for your users, let me know and I can take it down, but you really should embrace maven like everybody else.
 
 # Warranty / License
 
