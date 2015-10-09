@@ -1,0 +1,21 @@
+
+
+
+
+Download gateway software for MAC
+https://www.interactivebrokers.com/en/?f=%2Fen%2Fcontrol%2Fsystemstandalone-ibGateway.php%3Fos%3Dmac%26amp%3Bib_entity%3Dnew
+
+
+IB API Install Tutorial
+http://holowczak.com/installing-ib-gateway-for-linux/
+
+IB API Tutorial
+http://holowczak.com/ib-api-java-contract-details/
+
+IB documentation
+https://www.interactivebrokers.com/en/software/api/api.htm
+https://www.interactivebrokers.com/download/JavaAPIGettingStarted.pdf
+
+
+cd ~/dev/javadev/stok/3rdparty/IBJts
+java -cp jts.jar:total.2013.jar -Dsun.java2d.noddraw=true -Xmx512M ibgateway.GWClient .
